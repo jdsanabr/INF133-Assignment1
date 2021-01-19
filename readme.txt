@@ -11,13 +11,13 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
 */10
-- */1 Readme
+- 1/1 Readme
 - */2 Basic HTML content
 - */1 Basic CSS styling
 - */1 Advanced feature
 - */2 Responsive layout
 - */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+- 1/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
@@ -34,16 +34,29 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 3. How long, in hours, did it take you to complete this assignment?
-
+I took an average of 2 (maybe 2.5) hours each day. With that said, I did
+not get to work on this assignment every single day. I would say it was
+a rough total of 6 days.
+In terms of total hours, I would say it took me at least 12 hours
+because I had to rewatch lectures and refer to online resources.
 
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
-
+- To see the how's, I checked out a DesignCourse video:
+    https://www.youtube.com/watch?v=9iUJJHEIpls&t=4074s
+- To figure out the why's and background of stuff like syntax, it was
+  all trial and errors as well as websites like:
+    https://www.codecademy.com/learn/learn-html
+    https://www.codecademy.com/learn/learn-css
 
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
+I wanted to see if I could do this assignment on my own. I realize I
+should have asked for help much more. With that said, I did consult
+Ivy Huang on why changes I made to my css file were not being reflected
+on the browser. It turns out I had forgotten to import the css file
+into the hmtl file!
 
 
 6. Is there anything special we need to know in order to run your code?
-
+No.
