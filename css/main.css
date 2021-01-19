@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+body {
+    background-color: darkgray;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Roboto';
+}
+
+ul {
+    /*Gets rid of the bullet points*/
+    list-style-type: none;
+
+    margin: 0;
+    padding: 10;
+}
+
+a {
+    /*Gets rid of the underline*/
+    text-decoration: none;
+}
+
+.nav-topBar {
+    background-color: rgb(97, 97, 110);
+}
