@@ -22,11 +22,15 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
-
+- Included at least 1 image with descriptive alt attribute(s)
+- Used appropriate heading and paragraph text
+- 
 
 
 (b) CSS features
-
+- Modifying padding and margins to indent content and enhance readability
+- Adding custom font(s) from Google fonts to add more personality
+  * used 'Roboto', 'Zilla Slab Highlight'
 
 
 (c) Advanced features
@@ -44,8 +48,10 @@ because I had to rewatch lectures and refer to online resources.
 4. What online resources did you consult when completing this assignment? (list specific URLs)
 - To see the how's, I checked out a DesignCourse video:
     https://www.youtube.com/watch?v=9iUJJHEIpls&t=4074s
+        * Please note I used some of the code the YouTuber showed (such as how to get rid of the bullet points
+          and how to get the two elements in my header to be next to each other rather than stacking)
 - To figure out the why's and background of stuff like syntax, it was
-  all trial and errors as well as websites like:
+  all trial and error as well as websites like:
     https://www.codecademy.com/learn/learn-html
     https://www.codecademy.com/learn/learn-css
 

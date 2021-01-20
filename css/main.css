@@ -3,7 +3,7 @@
 
 body {
     background-color: darkgray;
-    height: 100vh;
+    /* height: 100vh; */
     margin: 0;
     font-family: 'Roboto', 'Zilla Slab Highlight';
 }
@@ -36,8 +36,6 @@ ul {
 .nav-topBar {
     color: blue;
     background-color: rgb(97, 97, 110);
-
-    
 }
 
 
@@ -48,7 +46,15 @@ ul {
 
 
 
+/*This is what normal paragraph text will look like*/
+p {
+    font-size: 15px;
+    padding: 1em;
+    /* margin: 1em; */
+}
 
-p {font-size: 15px;}
-
-img {width: 30%;}
+/*Did not want the size of the images to be too large*/
+img, h3 {
+    width: 30%;
+    padding: 1em;
+}
