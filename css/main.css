@@ -1,10 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab+Highlight:wght@700&display=swap');
 
 body {
     background-color: darkgray;
     height: 100vh;
     margin: 0;
-    font-family: 'Roboto';
+    font-family: 'Roboto', 'Zilla Slab Highlight';
+}
+
+header {
+    display: flex;
+    justify-content: flex-start;
+    padding: 1em;
+}
+
+/*Gets rid of the underline*/
+a {
+    text-decoration: none;
+    /*Spacing between "About Me" and "My Work"*/
+    padding: 1em;
 }
 
 ul {
@@ -13,13 +27,28 @@ ul {
 
     margin: 0;
     padding: 10;
-}
 
-a {
-    /*Gets rid of the underline*/
-    text-decoration: none;
+    /*"About Me" and "My Work" will be next to each other
+    instead of stacking on top of each other*/
+    display: flex;
 }
 
 .nav-topBar {
+    color: blue;
     background-color: rgb(97, 97, 110);
+
+    
 }
+
+
+.Information {
+    font-size: 35px;
+    font-family: 'Zilla Slab Highlight';
+}
+
+
+
+
+p {font-size: 15px;}
+
+img {width: 30%;}
