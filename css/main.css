@@ -27,14 +27,14 @@ ul {
     list-style-type: none;
 
     margin: 0;
-    padding: 10;
+    padding: 10em;
 
     /*"About Me" and "My Work" will be next to each other
     instead of stacking on top of each other*/
     display: flex;
 }
 
-.githubIcon {
+#github {
     width: 5%;
     padding: 0;
 }
@@ -60,7 +60,7 @@ p {
 }
 
 /*Did not want the size of the images to be too large*/
-img, h3 {
+#placeholder1, #placeholder2, h3 {
     width: 30%;
     padding: 1em;
 }
