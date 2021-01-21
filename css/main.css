@@ -12,6 +12,7 @@ header {
     display: flex;
     justify-content: flex-start;
     padding: 1em;
+    font-size: 20px;
 }
 
 /*Gets rid of the underline*/
@@ -35,6 +36,7 @@ ul {
 
 .githubIcon {
     width: 5%;
+    padding: 0;
 }
 
 .nav-topBar {
