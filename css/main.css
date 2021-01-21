@@ -33,6 +33,10 @@ ul {
     display: flex;
 }
 
+.githubIcon {
+    width: 5%;
+}
+
 .nav-topBar {
     color: blue;
     background-color: rgb(97, 97, 110);
